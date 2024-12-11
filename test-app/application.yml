@@ -1,1 +1,2 @@
-application
+example:
+ property: "application"
